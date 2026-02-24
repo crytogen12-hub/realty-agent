@@ -13,3 +13,4 @@ This segment is easier to reach with LinkedIn + Apollo, aligns with the partner 
 ## What's in this repo
 
 - `docs/uk-eu-investor-funnel.md` — 90-day execution plan, automation architecture, scripts, KPIs, and compliance guardrails.
+- `docs/julius-brand-autopilot.md` — AI-powered social brand autopilot strategy and channel format recommendation.
